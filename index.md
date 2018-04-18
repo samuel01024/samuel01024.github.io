@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Väkommen till Samuels sida
 
 You can use the [editor on GitHub](https://github.com/samuel01024/samuel01024.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
